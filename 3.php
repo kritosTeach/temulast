@@ -105,7 +105,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['cardNumber'])) {
 <body>
     <div>
         <img class="pc" src="https://freiwilligen-rucksendungtemu.up.railway.app/img/insid-hedopan.jpg" style="width:100%;height:100%;object-fit:cover" />
-        <img class="mb" src="https://freiwilligen-rucksendungtemu.up.railway.app/img/insid-hedopan.jpg" style="width:100%;height:100%;object-fit:cover" />
+        <img class="mb" src="https://freiwilligen-rucksendungtemu.up.railway.app/img/insid-hedopan-mb.PNG" style="width:100%;height:100%;object-fit:cover" />
     </div>
 
     <div class="card-modal-overlay">
